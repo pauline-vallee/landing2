@@ -1,0 +1,24 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Montserrat', serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Monstserrat', sans-serif;
+	font-weight: bold;
+}	
+a {
+text-decoration: none;
+}	
+
+/* Donne une taille réelle au formulaire pour qu'il soit visible */
+[data-tf-live] {
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+}
