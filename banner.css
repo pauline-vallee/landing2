@@ -1,5 +1,5 @@
 .banner  {
-	background-image: linear-gradient(134deg, #7400ff3d 0%, #ff00e605 50%), url(../../images/background.png);
+	background-image: linear-gradient(134deg, #7400ff3d 0%, #ff00e605 50%), url("background.png");
 	color : white;
 	padding: 150px 0px;
 	background-size: cover;
